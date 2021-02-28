@@ -5,6 +5,7 @@ Statistics-Stochastic_Portfolio_RubenGavidia0x
 ![Excel Modelling](https://github.com/RubenGavidia/Statistics-Stochastic_Portfolio_RubenGavidia0x/blob/master/Excel%20Table%20And%20Dashboard.png)
 
 ![Excel Modelling](https://github.com/RubenGavidia/Statistics-Stochastic_Portfolio_RubenGavidia0x/blob/master/Milton-Friedman.R/Dark%20Histogram%20%20SUM.png)
+![Excel Modelling](https://github.com/RubenGavidia/Statistics-Stochastic_Portfolio_RubenGavidia0x/blob/master/Milton-Friedman.R/Dark%20Histogram%20AVERAGE.png)
 
 Prove the Central Limit Theorem with a large dataset.
 ![Excel Modelling](https://github.com/RubenGavidia/Statistics-Stochastic_Portfolio_RubenGavidia0x/blob/master/ExcelDashBoard%20QQPlot%20and%20Histogram%20Die%20Rolling%20Modelling%20Bet.png)
