@@ -2,6 +2,8 @@ Statistics-Stochastic_Portfolio_RubenGavidia0x
 
 25$ Central Limit Theorem, QQ Plot Modelling 1000 Random Samples Excel Data Visualization
 
+![stats 70$ part](https://github.com/RubenGavidia/Statistics-Stochastic_Portfolio_RubenGavidia0x/blob/master/Milton-Friedman.R/100%25%20OF%20SCORE%20INTERVAL%20CONFIDENCE%20AND%20NORMAL%20DISTRIBUTION.png?raw=true)
+
 ![Excel Modelling](https://github.com/RubenGavidia/Statistics-Stochastic_Portfolio_RubenGavidia0x/blob/master/Excel%20Table%20And%20Dashboard.png)
 
 ![Excel Modelling](https://github.com/RubenGavidia/Statistics-Stochastic_Portfolio_RubenGavidia0x/blob/master/Milton-Friedman.R/Dark%20Histogram%20%20SUM.png)
