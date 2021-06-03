@@ -42,10 +42,15 @@ Vector aleatorio
   Distribución de la función de dos variables aleatorias
 
 Estocastica 2
+    
     Función Generatriz de momentos (FGM)
       Definición y propiedades
       La media y la varianza de las distribuciones clásicas utilizando FGM
+      Las propiedades reproductivas de algunas distribuciones
+      
     El Teorema del Límite Central (TLC) y su aplicación al muestreo
+      Las definiciones de muestra aleatoria, estadística y momentos
+       muestrales. La media muestral y la varianza muestral
       
     Distribuciones en el muestreo: La Chi—cuadrado, la “t” de Student y la F
     
