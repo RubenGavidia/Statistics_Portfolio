@@ -1,7 +1,7 @@
 Statistics-Stochastic_Portfolio_RubenGavidia0x
 
 
-![stats 70$ part](https://github.com/RubenGavidia/Testimonials_Vouches_and_Show_Work_Show_Skills.py/blob/main/etc/statistics.R/all%20the%20scores%20homeworks%20mcgrawhill%20aleks.png?raw=true
+![stats 70$ part](https://github.com/RubenGavidia/Testimonials_Vouches_and_Show_Work_Show_Skills.py/blob/main/etc/statistics.R/all%20the%20scores%20homeworks%20mcgrawhill%20aleks.png?raw=true)
 
 25$ Central Limit Theorem, QQ Plot Modelling 1000 Random Samples Excel Data Visualization
 
